@@ -1,2 +1,8 @@
-# express-products-api
-api for products
+aplicacion frontend and backend de productos
+
+backend: 
+principal: express, moongose
+secundarios: nodemon
+
+
+frontend: angular
